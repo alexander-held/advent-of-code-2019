@@ -1,2 +1,2 @@
 # Advent of Code 2019
-My solutions to the Advent of Code 2019 puzzles: https://adventofcode.com/2019.
+My solutions to the Advent of Code 2019 puzzles: https://adventofcode.com/2019. Often times there is some input needed to solve them, usually provided in a file called `input.txt`.
